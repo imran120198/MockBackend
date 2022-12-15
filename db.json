@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "name": "Imran",
+      "age": "24",
+      "gender": "Male",
+      "country": "India",
+      "profession": "Student",
+      "id": 1
+    },
+    {
+      "name": "Ankita",
+      "age": "24",
+      "gender": "Female",
+      "country": "India",
+      "profession": "Student",
+      "id": 2
+    },
+    {
+      "name": "Aman",
+      "age": "24",
+      "gender": "Male",
+      "country": "India",
+      "profession": "Employed",
+      "id": 3
+    }
+  ]
+}
